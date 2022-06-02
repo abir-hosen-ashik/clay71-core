@@ -1,0 +1,27 @@
+{
+  "name": "clay71-core",
+  "version": "1.0.6",
+  "description": "clay core intro to clay!",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/abir-hosen-ashik/clay71-core.git"
+  },
+  "keywords": [
+    "clay71"
+  ],
+  "author": "abir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abir-hosen-ashik/clay71-core/issues"
+  },
+  "homepage": "https://github.com/abir-hosen-ashik/clay71-core#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
